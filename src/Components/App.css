@@ -1,0 +1,28 @@
+Header img{
+    width: 300px;
+    border-radius: 50px;
+    border: 6px solid steelblue;
+    box-shadow: 0 0 25px;
+}
+Header h1{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.App{
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    /* border: 2px solid */
+}
+
+body{
+    background-image: url(/src/assets/Iconic_zoom_backgrounds_10-1024x563.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
